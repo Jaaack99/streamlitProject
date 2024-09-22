@@ -24,8 +24,8 @@ This is a Streamlit web application that visualizes the survival rates of passen
 
 2. **Create a virtual environment (optional but recommended)**:
    ```bash
-  python -m venv venv
-  source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   python -m venv venv
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 3. **Install required packages**:
    ```bash
