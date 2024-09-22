@@ -8,7 +8,6 @@ This is a Streamlit web application that visualizes the survival rates of passen
 - **Survival Rate by Class**: Shows the average survival rate based on passenger class.
 - **Fare Distribution**: Displays the distribution of survivors based on ticket fare.
 - **Age Distribution**: Compares the age distribution of survivors and non-survivors.
-- **Parch (Parents/Children Aboard) vs Survival**: Visualizes the relationship between the number of parents/children aboard and survival outcomes.
 
 ## Technologies Used
 - **Python**: The primary programming language.
