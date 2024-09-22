@@ -19,8 +19,7 @@ This is a Streamlit web application that visualizes the survival rates of passen
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/Jaaack99/streamlitProject/tree/main
 
 2. **Create a virtual environment (optional but recommended)**:
    ```bash
