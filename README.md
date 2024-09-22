@@ -29,11 +29,11 @@ This is a Streamlit web application that visualizes the survival rates of passen
 
 3. **Install required packages**:
    ```bash
-  pip install -r requirements.txt
+   pip install -r requirements.txt
 
 4. **Run the Streamlit app**:
    ```bash
-  streamlit run streamlit_app.py
+   streamlit run streamlit_app.py
 
 
 ## Docker Instructions
@@ -45,7 +45,7 @@ To containerize the application using Docker:
 
 2. **Run the Docker container**:
    ```bash
-  docker run -p 8501:8501 titanicapp
+   docker run -p 8501:8501 titanicapp
 
 3. **Access the app**:
    Open your web browser and go to http://localhost:8501.
